@@ -1,7 +1,7 @@
 # django-todo
 A simple todo app built with django
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+![todo App]((https://github.com/saranjib/web-app-Django-todo-ci-cd))
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
@@ -24,7 +24,7 @@ $ python manage.py migrate
 
 One last step and then our todo App will be live. We need to create an admin user to run this App. On the terminal, type the following command and provide username, password and email for the admin user
 ```bash
-$ python manage.py createsuperuser
+$ python manage.py createsuper
 ```
 
 That was pretty simple, right? Now let's make the App live. We just need to start the server now and then we can start using our simple todo App. Start the server by following command
